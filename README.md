@@ -9,7 +9,7 @@ I have to develop myself through perseverance and effort, and the best way to su
 
 Name | Link
 ------------ | -------------
-Growth | [Growth link]()
-Content in the first column | Content in the second column
+Growth | [Growth link](https://replit.com/@duhaghazleh/reading-notes-2#growth.md)
+read-0 | [read-0](https://replit.com/@duhaghazleh/reading-notes-2#read01.md)
 
 
