@@ -11,5 +11,6 @@ Name | Link
 ------------ | -------------
 Growth | [Growth link](https://replit.com/@duhaghazleh/reading-notes-2#growth.md)
 read-0 | [read-0](https://replit.com/@duhaghazleh/reading-notes-2#read01.md)
+Remote | [remote link](https://replit.com/@duhaghazleh/reading-notes-2#growth.md)
 
 
