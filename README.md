@@ -9,8 +9,8 @@ I have to develop myself through perseverance and effort, and the best way to su
 
 Name | Link
 ------------ | -------------
-Growth | [Growth link](https://replit.com/@duhaghazleh/reading-notes-2#growth.md)
-read-0 | [read-0](https://replit.com/@duhaghazleh/reading-notes-2#read01.md)
-Remote | [remote link](https://replit.com/@duhaghazleh/reading-notes-2#growth.md)
+Growth | [Growth link](https://duhaabughazleh.github.io/reading-notes/growth)
+read-0 | [read-0](https://duhaabughazleh.github.io/reading-notes/read001)
+Remote | [remote link](https://duhaabughazleh.github.io/reading-notes/read02)
 
 
