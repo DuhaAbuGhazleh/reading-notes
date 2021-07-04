@@ -16,6 +16,7 @@ HTML | [READ03](https://duhaabughazleh.github.io/reading-notes/read03)
 JS | [READ04](https://duhaabughazleh.github.io/reading-notes/read04)
 Operators and Loops | [READ05](https://duhaabughazleh.github.io/reading-notes/read05)
 CSS | [READ06](https://duhaabughazleh.github.io/reading-notes/read06)
+Function | [READ07](https://duhaabughazleh.github.io/reading-notes/read07)
 
 
 
