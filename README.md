@@ -28,7 +28,7 @@ Function | [READ07](https://duhaabughazleh.github.io/reading-notes/read07)
 
 | Name        | Link        |
 | ----------- | ----------- |
-| Introductory HTML and JavaScript         | [class-01]()        |
+| Introductory HTML and JavaScript         | [class-01](https://duhaabughazleh.github.io/reading-notes/class-01)        |
 | Basics of HTML, CSS & JS                 | [class-02]()        |
 |  HTML Lists, CSS Boxes, JS Control Flow  | [class-03]()        |
 |  HTML Links, CSS Layout, JS Functions    | [class-04]()        |

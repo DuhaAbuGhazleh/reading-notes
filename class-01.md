@@ -1,9 +1,9 @@
 
  # Introductory HTML and JavaScript
 
- ## 1- HTML
+ ## 1-HTML
 
-   ### **- Structure**
+   ###  Structure
 
 
    - HTML elements: are usually made up of two tags an opening tag and a closing tag. (The closing tag has an extra forward slash in it.)
