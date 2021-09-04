@@ -1,10 +1,12 @@
-# Introduction
+# Reading Notes
 I am Duha Iam 28 years old I have degree in electrical power engineering
 
 I have to develop myself through perseverance and effort, and the best way to succeed at any work is to  think about the growth mindset. When I’m ready, I walk through the problem once again, bit by bit, looking for new ways to think about it until I start to see another way forward. Just as I should not look at difficulties, I should look at the result we seek. And I must have high level of motivation.
 
 
-## Code 102 Reading Notes
+
+## Code 102 - Intro to Software Development
+
 
 ### Table of Contant 
 
@@ -21,7 +23,8 @@ Function | [READ07](https://duhaabughazleh.github.io/reading-notes/read07)
 
 
 
-## Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
+
 
 ### Table of Contants
 
@@ -43,3 +46,34 @@ Function | [READ07](https://duhaabughazleh.github.io/reading-notes/read07)
 |Local Storage                             | [class-13]()        |
 |CSS Transforms, Transitions, and Animations | [class-14a]()     |
 | What Google Learned About Teams            | [class-14b]()     |
+
+
+
+
+## Code 301 - Intermediate Software Development
+### Table of Contant 
+
+
+| Name        | Link        |
+| ----------- | ----------- |
+| Introduction to React and Components | [class-01]()        |
+|     | [class-02]()        |
+|     | [class-03]()        |
+|     | [class-04]()        |
+|     | [class-05]()        |
+|     | [class-06]()        |
+|     | [class-07]()        |
+|     | [class-08]()        |
+|     | [class-09]()        |
+|     | [class-10]()        |
+|     | [class-11]()        |
+|     | [class-12]()        |
+|     | [class-13]()        |
+|     | [class-14a]()     |
+|     | [class-14b]()     |
+
+
+
+## Code 401 - Advanced Software Development
+### Table of Contant 
+
