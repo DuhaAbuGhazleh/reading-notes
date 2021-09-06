@@ -57,8 +57,8 @@ Function | [READ07](https://duhaabughazleh.github.io/reading-notes/read07)
 | Name        | Link        |
 | ----------- | ----------- |
 | Introduction to React and Components | [class-01](https://duhaabughazleh.github.io/reading-notes/301-class01)        |
-|     | [class-02]()        |
-|     | [class-03]()        |
+|     | [class-02](https://duhaabughazleh.github.io/reading-notes/301-class02)        |
+|     | [class-03](https://duhaabughazleh.github.io/reading-notes/301-class03)        |
 |     | [class-04]()        |
 |     | [class-05]()        |
 |     | [class-06]()        |
